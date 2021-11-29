@@ -43,6 +43,18 @@ body {
     opacity: 0;
 }
 
+.panel.active {
+    flex: 5;
+
+}
+
+.panel.acrive h3 {
+    opacity: 1;
+}
+
+
+
+
 
 
 
